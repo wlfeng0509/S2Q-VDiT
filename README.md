@@ -1,10 +1,10 @@
-# (NeurIPS 2025) S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation
+# (NeurIPS 2025) $S^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation
 
 [arXiv](https://arxiv.org/abs/2508.04016) | [BibTeX](#bibtex)
 
 ------
 
-This project is the official implementation of our "S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation".
+This project is the official implementation of our "$S^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation".
 
 ![teaser](imgs/teaser.png)
 
@@ -22,7 +22,7 @@ This project is the official implementation of our "S^2^Q-VDiT: Accurate Quantiz
 
 ## BibTeX
 
-If you find *S^2^Q-VDiT* is useful and helpful to your work, please kindly cite this paper:
+If you find *$S^2$Q-VDiT* is useful and helpful to your work, please kindly cite this paper:
 
 ```
 @article{feng2025s,
